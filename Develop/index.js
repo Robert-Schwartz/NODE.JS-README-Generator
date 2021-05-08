@@ -14,12 +14,22 @@ const questions = [
 		type: "input",
 		name: "description",
 		message:
-			"Provide a short description explaining the what, why, and how of your project..",
+			"Provide a short description explaining the what, why, and how of your project.",
 	},
 	{
 		type: "input",
 		name: "installation",
-		message: "What are the installation instructions?",
+		message: "What are the steps required to install your project?",
+	},
+	{
+		type: "input",
+		name: "Usage",
+		message: "Provide instructions for usage.",
+	},
+	{
+		type: "input",
+		name: "Credits",
+		message: "Please List your contributors.",
 	},
 	{
 		type: "list",
