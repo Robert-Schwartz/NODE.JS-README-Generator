@@ -88,6 +88,11 @@ ${data.credits}
 ${renderLicenseLink(data.license)}
 
 ${renderLicenseSection(data.license)}
+
+## Contact Me
+Contact me with any questions
+- Github Profile: ${data.Github}
+- E-mail me: ${data.Email}
 `;
 }
 

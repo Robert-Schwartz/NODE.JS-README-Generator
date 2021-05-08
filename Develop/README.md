@@ -1,10 +1,10 @@
 
-# Test proj
+# project final
 
-![Apache License 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+![MIT Badge](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ## Description
-it does stuff
+it is the final countdown
 
 ## Table of Contents
 - [Installation](#installation)
@@ -22,7 +22,11 @@ undefined
 undefined
 
 ## License
-[Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
-Apache License
-Version 2.0, January 2004
-http://www.apache.org/licenses/
+[MIT License](https://opensource.org/licenses/MIT)
+
+Copyright (c) 2021
+
+## Contact Me
+Contact me with any questions
+- Github Profile: robert-schwartz
+- E-mail me: bschwartz23@gmail.com

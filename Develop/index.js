@@ -37,6 +37,16 @@ const questions = [
 		message: "Which License(s) did you apply to your repository?",
 		choices: ["MIT", "Apache License 2.0", "GNU General Public License 3.0", "BSD 3-Clause License", "None"],
 	},
+	{
+		type: "input",
+		name: "Github",
+		message: "Enter your Github Username for follow up.",
+	},
+	{
+		type: "input",
+		name: "Email",
+		message: "Enter your e-mail address for follow up.",
+	},
 ];
 
 //-------------- Function to write README file
