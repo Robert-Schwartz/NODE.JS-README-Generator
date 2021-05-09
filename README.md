@@ -7,7 +7,7 @@
 As a developer, I want a README generator so that I can quickly create a professional README file for a new project.
 
 ## Walkthrough Video
-![Video Link](https://drive.google.com/file/d/1N7Ivn6xS20DU1Ppt0MiGNQnNG8MniGua/view)
+[Video Link](https://drive.google.com/file/d/1N7Ivn6xS20DU1Ppt0MiGNQnNG8MniGua/view)
 
 ## Table of Contents
 - [Technologies](#Technologies)
