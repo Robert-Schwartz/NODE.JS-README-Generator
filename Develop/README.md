@@ -4,34 +4,35 @@
 ![MIT Badge](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ## Description
-AS A developer
+As a developer, I want a README generator so that I can quickly create a professional README file for a new project.
 
 ## Table of Contents
-- [Installation](#installation)
-- [Technologies] (#Technologies)
+- [Technologies](#Technologies)
+- [Installation](#Installation)
 - [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+- [Contributions](#Contributions)
 - [Contact](#Contact)
+- [License](#license)
 
 ## Technologies
-JavaScript,HTML,CSS,ES6,Node
+HTML, JavaScript, ES6, Node.js, NPM inquierer pacakge.
 
 ## Installation
-Requires NPM downloand of Inquirer package and node.js on computer to run.
+Requires download of NPM package of Inquirer and Node.js on computer to run.
 
 ## Usage
-undefined
+Open the command line and then run node index.js.  You will then be given a series of prompts to provide the content of a new README file.  Once the prompts finish, a new file called README.md will generate in your directory.  Open the new README.md to view the contents and make edits if needed.
 
-## Credits
-undefined
+## Contributions
+Robert Schwartz
+
+## Contact
+Contact me with any questions
+- Github Profile: [Robert-Schwartz](https://github.com/Robert-Schwartz/)
+- E-mail me: bschwartz23@gmail.com
 
 ## License
 [MIT License](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2021
 
-## Contact
-Contact me with any questions
-- Github Profile: [Robert-Schwartz](https://github.com/Robert-Schwartz/)
-- E-mail me: bschwartz23@gmail.com

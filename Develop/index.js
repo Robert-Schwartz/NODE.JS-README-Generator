@@ -22,37 +22,19 @@ const questions = [
 		message: "What are the steps required to install your project?",
 	},
 	{
-		type: "checkbox",
-		name: "Technologies",
-		message: "What did you this project with? (Check all that apply)",
-		choices: [
-			"JavaScript",
-			"HTML",
-			"CSS",
-			"ES6",
-			"jQuery",
-			"Bootstrap",
-			"Node",
-			"Express",
-			"SQL",
-			"REACT"
-		],
+		type: "input",
+		name: "technologies",
+		message: "What Technologies did you use for this project?",
 	},
 	{
 		type: "input",
-		name: "Usage",
-		message: "Provide instructions for usage.",
+		name: "usage",
+		message: "Provide usage instructions user.",
 	},
 	{
 		type: "input",
-		name: "Credits",
+		name: "contributions",
 		message: "Please List your contributors.",
-	},
-	{
-		type: "list",
-		name: "license",
-		message: "Which License(s) did you apply to your repository?",
-		choices: ["MIT", "Apache License 2.0", "GNU General Public License 3.0", "BSD 3-Clause License", "None"],
 	},
 	{
 		type: "input",
@@ -63,6 +45,12 @@ const questions = [
 		type: "input",
 		name: "Email",
 		message: "Enter your e-mail address for follow up.",
+	},
+	{
+		type: "list",
+		name: "license",
+		message: "Which License(s) did you apply to your repository?",
+		choices: ["MIT", "Apache License 2.0", "GNU General Public License 3.0", "BSD 3-Clause License", "None"],
 	},
 ];
 

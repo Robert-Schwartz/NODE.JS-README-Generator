@@ -70,15 +70,15 @@ ${renderLicenseBadge(data.license)}
 ${data.description}
 
 ## Table of Contents
-- [Installation](#installation)
-- [Technologies] (#Technologies)
+- [Technologies](#Technologies)
+- [Installation](#Installation)
 - [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+- [Contributions](#Contributions)
 - [Contact](#Contact)
+- [License](#license)
 
 ## Technologies
-${data.Technologies}
+${data.technologies}
 
 ## Installation
 ${data.installation}
@@ -86,18 +86,19 @@ ${data.installation}
 ## Usage
 ${data.usage}
 
-## Credits
-${data.credits}
+## Contributions
+${data.contributions}
+
+## Contact
+Contact me with any questions
+- Github Profile: [${data.Github}](https://github.com/${data.Github}/)
+- E-mail me: ${data.Email}
 
 ## License
 ${renderLicenseLink(data.license)}
 
 ${renderLicenseSection(data.license)}
 
-## Contact
-Contact me with any questions
-- Github Profile: [${data.Github}](https://github.com/${data.Github}/)
-- E-mail me: ${data.Email}
 `;
 }
 
