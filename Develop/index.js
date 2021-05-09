@@ -62,7 +62,7 @@ function writeToFile(fileName, data) {
 			return;
 		}
 		console.log(
-			"Your new README is created! Check out README.md in this directory to view it!"
+			"Your new README is created! Check out New-README.md in this directory to view it!"
 		);
 	});
 }
