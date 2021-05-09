@@ -71,9 +71,14 @@ ${data.description}
 
 ## Table of Contents
 - [Installation](#installation)
+- [Technologies] (#Technologies)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Contact](#Contact)
+
+## Technologies
+${data.Technologies}
 
 ## Installation
 ${data.installation}
@@ -89,9 +94,9 @@ ${renderLicenseLink(data.license)}
 
 ${renderLicenseSection(data.license)}
 
-## Contact Me
+## Contact
 Contact me with any questions
-- Github Profile: ${data.Github}
+- Github Profile: [${data.Github}](https://github.com/${data.Github}/)
 - E-mail me: ${data.Email}
 `;
 }

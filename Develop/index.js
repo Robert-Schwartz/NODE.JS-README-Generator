@@ -22,6 +22,23 @@ const questions = [
 		message: "What are the steps required to install your project?",
 	},
 	{
+		type: "checkbox",
+		name: "Technologies",
+		message: "What did you this project with? (Check all that apply)",
+		choices: [
+			"JavaScript",
+			"HTML",
+			"CSS",
+			"ES6",
+			"jQuery",
+			"Bootstrap",
+			"Node",
+			"Express",
+			"SQL",
+			"REACT"
+		],
+	},
+	{
 		type: "input",
 		name: "Usage",
 		message: "Provide instructions for usage.",
